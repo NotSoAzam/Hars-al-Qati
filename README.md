@@ -78,4 +78,4 @@ A friendly Discord bot to help you stay connected to Islam with reminders, rando
 
 ## 🙋 Feedback
 
-Suggestions or feedback? Message <@1107348715867480104> on Discord.
+Suggestions or feedback? Message @NotSoAzam on Discord.
